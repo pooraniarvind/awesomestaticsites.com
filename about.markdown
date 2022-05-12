@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Coffee Mug](/images/coffee.jpg)
 
 Hello! I am Poorani. This is my blog.
 
