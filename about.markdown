@@ -18,5 +18,5 @@ Currently, I manage a team of Technical Writers, Documentation managers, Informa
 
 Passionate about new trends in technology, social media and collaborative tools in enhancing communication within the organization, with partners and customers.
 
-I have some cool [Projects](/projects) you might want to checkout.
+I have some cool [Projects](/projects.html) you might want to checkout.
 

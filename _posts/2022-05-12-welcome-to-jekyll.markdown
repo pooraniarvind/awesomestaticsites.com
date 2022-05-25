@@ -15,5 +15,5 @@ categories: jekyll update
 
 [<b>Home</b>](https://www.pooraniarvind.com/)
 
-[<b>Projects</b>](../../../../../projects)
+[<b>Projects</b>](../../../../../projects.html)
 
