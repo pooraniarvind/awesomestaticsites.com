@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![Poorani A](/images/poorani3.jpg)
+![Poorani A](/images/poorani5.jpg)
 #### Technical Writing | Information Architecture | Content Strategy | Content Management
 
 Hello! I am Poorani Aravindan. 
