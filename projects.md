@@ -5,12 +5,14 @@ title: Projects
 
 # My Projects
 
+
 * Documentation Center in Adobe Experience Manager (AEM)
 * API Documentation using Postman and GitHub
-* Avaya J100 Series video project
+* Micro videos project
 * Confluence Documentation Wiki
-* Cisco UC Technical Articles in Mediawiki
-* Avaya Doc Chatbot project
+* Technical Articles in Mediawiki
+* Doc Chatbot project - automated responses to customer inquiries on documentation using Chatbots powered by NLP engines
+* oXygen XML Editor + Git + Markdown
 
 
 [<b>About Me</b>](../../../../../about)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

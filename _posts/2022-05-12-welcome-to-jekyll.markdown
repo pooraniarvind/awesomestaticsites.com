@@ -7,7 +7,7 @@ categories: jekyll update
 ![The mascot](/images/poorani-rotating.gif)
 
 
-<p>I am still in the process of moving my WordPress blog content to the site. I am also planning build a portfoliio of the my documentation projects in this site.</p>
+<p>I am still in the process of moving my WordPress blog content to the site. I am also planning to build a portfoliio of the my documentation projects in this site.</p>
 
 <p>This blog is built with Jekyll, Git and GitHub. For continuous content publishing, I created a CI pipeline in TravisCI to automate the site build and publishing. So each time I push content to my GitHub repository, the CI publishing pipeline deploys the updates to my website.</P>  
 
